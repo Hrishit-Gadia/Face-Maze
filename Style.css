@@ -1,0 +1,52 @@
+Body{
+    Text-Align: Center;
+    Background-Color : Black;
+}
+
+#Intro{
+    Border-Color : Yellow;
+    Border-Width : 3px;
+    Border-Style : Dashed Double;
+    Float : None;
+    Width : 250px;
+}
+
+.Faces{
+    Height : 125px;
+}
+
+.Members-Male{
+    Border-Radius : 100%;
+    Border-Color : Cyan;
+    Border-Width: 1px;
+    Border-Style : Solid;
+    Width : Fit-Content;
+    Display : Inline-Block;
+}
+
+.Members-Female{
+    Border-Radius : 100%;
+    Border-Color : DeepPink;
+    Border-Width: 1px;
+    Border-Style : Solid;
+    Width : Fit-Content;
+    Display : Inline-Block;
+}
+
+.Orange{
+    Color: Orange;
+    Font-Family: 'Cedarville Cursive', Cursive;
+    Font-Weight: Bold;
+}
+
+.Cyan{
+    Color: Cyan;
+    Font-Family: 'Cedarville Cursive', Cursive;
+    Font-Weight: Bold;
+}
+
+.DeepPink{
+    Color: DeepPink;
+    Font-Family: 'Cedarville Cursive', Cursive;
+    Font-Weight: Bold;
+}
