@@ -4,11 +4,8 @@ Body{
 }
 
 #Intro{
-    Border-Color : Yellow;
-    Border-Width : 3px;
-    Border-Style : Dashed Double;
-    Float : None;
-    Width : 250px;
+    Width : 300px;
+    font-size: 25px;
 }
 
 .Faces{
@@ -22,6 +19,8 @@ Body{
     Border-Style : Solid;
     Width : Fit-Content;
     Display : Inline-Block;
+    width: 125px;
+    height: 125px;
 }
 
 .Members-Female{
@@ -31,6 +30,8 @@ Body{
     Border-Style : Solid;
     Width : Fit-Content;
     Display : Inline-Block;
+    width: 125px;
+    height: 125px;
 }
 
 .Orange{
@@ -49,4 +50,17 @@ Body{
     Color: DeepPink;
     Font-Family: 'Cedarville Cursive', Cursive;
     Font-Weight: Bold;
+}
+
+canvas{
+    border: cyan solid;
+    margin-top: 250px;
+}
+
+.Content{
+    border: aliceblue 2px solid;
+    border-bottom-left-radius: 250px;
+    border-bottom-right-radius: 250px;
+    border-top-left-radius: 750px;
+    border-top-right-radius: 750px;
 }
